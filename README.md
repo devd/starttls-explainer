@@ -16,3 +16,14 @@ then sends the actual message to gmail.
 
 Additionally, I am not sure but I might want to add these icons in the "list
 view" and "thread view" instead of to each individual message.
+
+# What does it look like
+
+### Secure
+<img src=https://www.dropbox.com/s/tjl7o5al8z8xcdc/Screenshot%202015-08-12%2014.41.09.png?dl=1 width=250px>
+
+### Insecure
+<img src=https://www.dropbox.com/s/rdh3wwy74izminv/Screenshot%202015-08-12%2014.41.01.png?dl=1 width=250px> 
+
+### RC4
+<img src=https://www.dropbox.com/s/traw89vkazdrgm1/Screenshot%202015-08-12%2014.47.33.png?dl=1 width=250px>
