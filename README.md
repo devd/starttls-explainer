@@ -1,3 +1,5 @@
+Unless you want to hack on the code, you probably want to install from https://chrome.google.com/webstore/detail/starttls-explainer/gclfifmlfchoicneobnmpjbcaieeolgn
+
 # STARTTLS explainer
 A gmail extension that shows an icon explaining the security of the TLS
 encryption of the email you received. For no encryption, it shows a scary icon.
